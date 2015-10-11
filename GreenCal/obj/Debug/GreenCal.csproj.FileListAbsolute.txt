@@ -1,0 +1,14 @@
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\bin\Debug\GreenCal.exe
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\bin\Debug\GreenCal.pdb
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Debug\GreenCal.csprojResolveAssemblyReference.cache
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Debug\GreenCal.MainForm.resources
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Debug\GreenCal.csproj.GenerateResource.Cache
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Debug\GreenCal.exe
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Debug\GreenCal.pdb
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\bin\Debug\GreenCal.exe
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\bin\Debug\GreenCal.pdb
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\obj\Debug\GreenCal.csprojResolveAssemblyReference.cache
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\obj\Debug\GreenCal.MainForm.resources
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\obj\Debug\GreenCal.csproj.GenerateResource.Cache
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\obj\Debug\GreenCal.exe
+F:\Cds\dotNet\MySoft\Source Code\GreenCal\GreenCal\obj\Debug\GreenCal.pdb

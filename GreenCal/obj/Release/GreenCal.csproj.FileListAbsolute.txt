@@ -1,0 +1,5 @@
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\bin\Release\GreenCal.exe
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Release\GreenCal.csprojResolveAssemblyReference.cache
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Release\GreenCal.MainForm.resources
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Release\GreenCal.csproj.GenerateResource.Cache
+C:\Users\AJB\Documents\SharpDevelop Projects\GreenCal\GreenCal\obj\Release\GreenCal.exe
